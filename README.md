@@ -1,6 +1,8 @@
-# Age and Gender Detection
+#Gender Detection
 
-A computer vision project that detects faces and predicts the gender of individuals in real-time using OpenCV and deep learning models.
+Welcome to the **Gender Detection Model** project by [@wingFire-29](https://github.com/wingFire-29)!  
+This project uses deep learning and OpenCV to detect human faces in real-time and predict their gender — Male or Female — with high confidence.
+
 
 ## Features
 
